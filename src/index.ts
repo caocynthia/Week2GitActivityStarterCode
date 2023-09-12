@@ -7,3 +7,6 @@ console.log(`result_add = ${result_add}`);
 
 const result_subtract = calc.subtract(8, 10);
 console.log(`result_subtract = ${result_subtract}`);
+
+const result_multiply = calc.multiply(4, 5);
+console.log(`result_multiply = ${result_multiply}`);

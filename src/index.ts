@@ -10,3 +10,5 @@ console.log(`result_subtract = ${result_subtract}`);
 
 const result_multiply = calc.multiply(4, 5);
 console.log(`result_multiply = ${result_multiply}`);
+
+calc.hello();
